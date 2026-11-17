@@ -2,7 +2,7 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": ["config:recommended"],
   "constraints": {
-    "elixir": "1.15.8"
+    "elixir": "1.20.5"
   },
   "lockFileMaintenance": {
     "enabled": true
